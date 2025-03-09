@@ -1,4 +1,10 @@
 # TestSweeni
+
+Here I upload entire six solutions in TestSweeni repository.
+This Repository includes All six completed solutions, CustomerCars database scripts,CustomerCars system's screenshots and screenrecordings and readme file.
+
+Note : Can ignore following repositories.
+In Advance and Safe,
 There were six questions in total, and I have created separate repositories to upload my work for each of them.
 
 You can find all the repositories at the following
