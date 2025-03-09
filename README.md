@@ -1,20 +1,19 @@
 # TestSweeni
 
-Here I upload entire six solutions in TestSweeni repository.
+Here I upload entire six solutions.
 This Repository includes All six completed solutions, CustomerCars database scripts,CustomerCars system's screenshots and screenrecordings and readme file.
 
-Note : Can ignore following repositories.
-In Advance and Safe,
-There were six questions in total, and I have created separate repositories to upload my work for each of them.
+Customer Cars System
 
-You can find all the repositories at the following
-GitHub link : https://github.com/sweeni89?tab=repositories
-Q1 - https://github.com/sweeni89/Q01_ErrorHandling1
-Q2 - https://github.com/sweeni89/Q02_Debugging
-Q3 - https://github.com/sweeni89/Q03_ProblemSolving
-Q4 - https://github.com/sweeni89/Q04_XML
-Q5 - https://github.com/sweeni89/Q05_Inheritance
-Q6 - https://github.com/sweeni89/Q06-SampleSolution
-DataBase - https://github.com/sweeni89/CustomerCarsDB - Uploaded database script
+1. CustomerCars database script in the "CustomerCars DataBase" Folder.
+path :Test -PinaVida-SweeniSathivel\pinavida-sweeni-sathivel-completed test\CustomerCars DataBase
 
-Set multiple startup projects sampleSolution.api and samplesolution.wpf
+2. Customer Cars Completed system screen shots and screen recordings are available in the 'CustomerCars System ScreenShots' Folder
+path :Test -PinaVida-SweeniSathivel\pinavida-sweeni-sathivel-completed test\CustomerCars System ScreenShots
+
+3. SampleSolution set multiple start up project.(SampleSolution.Webapi and SampleSolutionwpf)
+
+4. You have to change the database connection string in SampleDbContext.cs
+
+5. You have to change the BaseAddress in BaseClient.cs
+
